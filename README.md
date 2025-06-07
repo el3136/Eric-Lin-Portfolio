@@ -1,3 +1,9 @@
+## Eric's Portfolio Website
+
+Link to Eric's Portfolio Website:
+
+[Eric's Portfolio](https://el3136.github.io/Eric-Lin-Portfolio/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
